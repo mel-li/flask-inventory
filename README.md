@@ -1,7 +1,5 @@
 # flask-inventory
 
-###Documentation
-
 In this file, I will document how to setup flask-inventory. All commands you need to run in the terminal are prefixed by `$`.
 
 First begin by cloning flask-inventory:
